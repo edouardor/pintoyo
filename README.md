@@ -14,7 +14,7 @@ Pintoyo is an interactive web application that allows users to create unique spi
 
 ## Usage
 
-Open the `index.html` file in your web browser to start using Pintoyo. Click and drag on the canvas to draw, and use the provided buttons to change colors and spinning speed. Press the spacebar to save your artwork as an image file.
+Visit https://edouardor.github.io/pintoyo/ to use Pintoyo. Click and drag on the canvas to draw, and use the provided buttons to change colors and spinning speed. Press the spacebar to save your artwork as an image file.
 
 ## License
 
