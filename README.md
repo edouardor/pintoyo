@@ -2,7 +2,7 @@
 
 Pintoyo is an interactive web application that allows users to create unique spinning art by drawing on a rotating canvas. Users can customize the drawing color, spinning speed, and background color of the canvas.
 
-![Pintoyo Screenshot](https://github.com/edouardor/pintoyo/edit/main/README.md#:~:text=myCircleImage%20(5-,),-.png)
+![Pintoyo Screenshot](https://github.com/edouardor/pintoyo/blob/main/myCircleImage%20(5).png)
 
 ## Features
 
